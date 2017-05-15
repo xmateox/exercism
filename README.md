@@ -1,1 +1,3 @@
 # exercism
+
+Trying to waste time in more useful way...

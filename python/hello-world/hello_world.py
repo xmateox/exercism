@@ -1,7 +1,7 @@
 def hello():
     """Greats from python!"""
-    print ('Hello, World!')
+    return ('Hello, World!')
 
 hello()
 
-# I have no idea why this not pass the self test...
+# It must be return instead print
